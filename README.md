@@ -23,7 +23,7 @@ Select the Dataset Folder: A dialog box will appear. Select the folder containin
 Requirements
 Ensure you have the following dependencies installed:
 
-Python 3.x
+Python 3
 TensorFlow
 OpenCV
 NumPy
